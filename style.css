@@ -74,6 +74,7 @@ main #titulo1 {
 main .parte1  p{
     margin: 10px 0px 15px 0px;
     width: 450px;
+    min-width: 300px;
     font-weight: normal;
     text-align: justify;
     font-size: 1em;
