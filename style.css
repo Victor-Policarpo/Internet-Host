@@ -60,6 +60,7 @@ main .parte1{
 }
 main .parte1 p{
     max-width: 360px;
+    min-width: 200px;
 }
 main .tituloprinc{
     font-family: var(--font-destaque);
